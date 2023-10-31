@@ -1,0 +1,1 @@
+Just a little PoC to display my degeneracy of not closing tabs/windows via Discord RPC.

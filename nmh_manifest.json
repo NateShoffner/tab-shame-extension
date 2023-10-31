@@ -1,0 +1,8 @@
+{
+    "name": "com.nateshoffner.tab_shame",
+    "description": "Reports browser degeneracy.",
+    "path": "listener.py",
+    "type": "stdio",
+    "allowed_extensions": ["extension@akfbbdmcjicolbolpdgkccahpiaoogjl"],
+    "allowed_origins": ["chrome-extension://akfbbdmcjicolbolpdgkccahpiaoogjl/"]
+}
